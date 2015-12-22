@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SetStyleProgramatically</string>
+    <string name="action_settings">Settings</string>
+    <string name="styleble_title">I\'m a styleable text</string>
+</resources>
